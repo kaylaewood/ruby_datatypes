@@ -1,6 +1,6 @@
-# Ruby Exercises
+# Ruby Data Type Exercises
 
-This is a collection of exercises created by Turing School of Software & Design to practice various data type in Ruby.
+This is a collection of exercises created by Turing School of Software & Design to practice various data types in Ruby.
 
 ## Setup
 1. `clone` this repo.
@@ -8,11 +8,17 @@ This is a collection of exercises created by Turing School of Software & Design 
 3. Run `bundle`.
 4. To run tests, `cd` into the appropriate directory (i.e. `strings`) and run `ruby [file name]` (i.e. `strings.rb`).
 
-## Exercises
-data-types:
-  * strings 
-  * ints_and_floats
-  * collections/arrays 
+## Data Types:
+  * Strings 
+  * Integers & Floats
+  * Collections & Arrays 
+  
+## Methods I Learned/Used:
+| method | data types | explanation | example |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
   
 ## Sources
   * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
