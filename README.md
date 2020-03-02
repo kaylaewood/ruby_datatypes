@@ -14,11 +14,15 @@ This is a collection of exercises created by Turing School of Software & Design 
   * Collections & Arrays 
   
 ## Methods I Learned/Used:
-| method | data types | explanation | JS Equivalent? |
+| method | data type(s) | explanation | JS Equivalent? |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|`str.capitalize`|string|Capitalizes the first letter of a string.|N/A|
+|`str.upcase`|string|Capitalizes all letters in a string.|`str.toUpperCase()`|
+|`str.downcase`|string|Makes all letters in a string lowercase.|`str.toLowerCase()`|
+|`str.reverse`|string|Reverses the order of all elements in a string.|`str.split('').reverse().join('')`|
+|`str.gsub()`|string|||
+|||||
+|||||
   
 ## Sources
   * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
