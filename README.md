@@ -15,6 +15,6 @@ data-types:
   * collections/arrays 
   
 ## Sources
-  * [Strings Video Walk-Through by Turing](https://youtu.be/BKqo2w0W7S0)
-  * [Collections/Arrays Video Walk-Through by Turing](https://youtu.be/RUnd1Uu0AyE)
+  * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
+  * [Collections/Arrays Video Walk-Through](https://youtu.be/RUnd1Uu0AyE) by Turing
   
