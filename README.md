@@ -29,4 +29,5 @@ This is a collection of exercises created by Turing School of Software & Design 
   * [Collections/Arrays Video Walk-Through](https://youtu.be/RUnd1Uu0AyE) by Turing
   * [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
   * [Ruby Datatypes Lesson](https://backend.turing.io/module1/lessons/datatypes) by Turing
+  * [gsub Guide](https://www.rubyguides.com/2019/07/ruby-gsub-method/)
   
