@@ -1,8 +1,8 @@
 # Ruby Methods (in Comparison to JS)
 
-This is a collection of exercises created by Turing School of Software & Design to practice various data types in Ruby including strings, integers, floats, collections, and arrays.
+This is a collection of exercises created by Turing School of Software & Design to practice various data types in Ruby including **strings**, **integers**, **floats**, and **arrays**.
 
-## Setup
+## View the Methods in Action with Testing:
 1. `clone` this repo.
 2. `cd` into this directory.
 3. Run `bundle`.
