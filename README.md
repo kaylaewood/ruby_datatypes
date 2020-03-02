@@ -1,4 +1,4 @@
-# Ruby Data Type Exercises
+# Ruby Methods (in Comparison to JS)
 
 This is a collection of exercises created by Turing School of Software & Design to practice various data types in Ruby including strings, integers, floats, collections, and arrays.
 
@@ -24,18 +24,17 @@ This is a collection of exercises created by Turing School of Software & Design 
 |`int.even?`|Results in a boolean stating whether an integer is even.|N/A (Would need to use a modulus and conditional logic)|
 |`int.round()`|Round to the nearest whole number. You can add a number inside the parens to indicate the place value you want to round to.|`Math.round(int)`|
 |`int.ceil`|Round up to the next whole number.|N/A|
-|`arr.last`|||
-|`arr.push(elem)` or `arr << str`|||
-|`arr.pop`|Remove and return last element from array.||
-|`arr.unshift(elem)`|Add element to beginning of array.||
-|`arr.shift`|Remove and return first item in array.||
-|`arr[n..length]`|Return a subarray starting at index `n` of given length.||
-|`arr.delete(elem)`|Delete all items in the array that are equal to the element provided.||
-|`arr.flatten`|Remove nested arrays.||
+|`arr.last`|Return the last item in an array.|`arr[arr.length - 1]`|
+|`arr.push(elem)` or `arr << str`|Add an element to the end of an array.|`arr.push(elem)`|
+|`arr.pop`|Remove and return last element from array.|`arr.pop()`|
+|`arr.unshift(elem)`|Add element to beginning of array.|`arr.unshift(elem)`|
+|`arr.shift`|Remove and return first item in array.|`arr.shift()`|
+|`arr[n..length]`|Return a subarray starting at index `n` of given length.|N/A (Would have to iterate with conditionals)|
+|`arr.delete(elem)`|Delete all items in the array that are equal to the element provided.|`arr.filter(elem => elem !== elemToFind)`|
+|`arr.flatten`|Remove nested arrays.|`arr.flat()`|
 |`arr.rotate! n`|Rotate the elements `n` spots.|N/A|
-|`arr.insert(index, elem)`|Insert an element at the given index.||
-|`arr.join(" ")`|||
-||||
+|`arr.insert(index, elem)`|Insert an element at the given index.|`arr.splice(start, deleteNum, itemsToAdd)`|
+|`arr.join(str)`|Combine all elements of an array with given string in between.|`arr.join(str)`|
   
 ## Sources
   * [Turing Ruby Datatypes Lesson](https://backend.turing.io/module1/lessons/datatypes)
