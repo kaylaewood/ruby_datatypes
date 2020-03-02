@@ -9,15 +9,19 @@ This is a collection of exercises created by Turing School of Software & Design 
 4. To run tests, `cd` into the appropriate directory (i.e. `strings`) and run `ruby [file name]` (i.e. `strings.rb`).
   
 ## Methods I Learned/Used:
-| method | data type(s) | explanation | JS Equivalent |
-|---|---|---|---|
-|`str.capitalize`|string|Capitalizes the first letter of a string.|`str.replace(/^\w/, char => char.toUpperCase())`|
-|`str.upcase`|string|Capitalizes all letters in a string.|`str.toUpperCase()`|
-|`str.downcase`|string|Makes all letters in a string lowercase.|`str.toLowerCase()`|
-|`str.reverse`|string|Reverses the order of all elements in a string.|`str.split('').reverse().join('')`|
-|`str.gsub(old, new)`|string|Replace part of a string with something new.|`str.replace(old, new)`|
-|||||
-|||||
+|method|explanation|JS Equivalent|
+|---|---|---|
+|`str.capitalize`|Capitalizes the first letter of a string.|`str.replace(/^\w/, char => char.toUpperCase())`|
+|`str.upcase`|Capitalizes all letters in a string.|`str.toUpperCase()`|
+|`str.downcase`|Makes all letters in a string lowercase.|`str.toLowerCase()`|
+|`str.reverse`|Reverses the order of all elements in a string.|`str.split('').reverse().join('')`|
+|`str.gsub(old, new)`|Replace part of a string with something new.|`str.replace(old, new)`|
+||||
+||||
+||||
+||||
+||||
+||||
   
 ## Sources
   * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
