@@ -17,9 +17,14 @@ This is a collection of exercises created by Turing School of Software & Design 
 |`str.reverse`|Reverses the order of all elements in a string.|`str.split('').reverse().join('')`|
 |`str.gsub(old, new)`|Replace part of a string with something new.|`str.replace(old, new)`|
 |`str.length`|Count the number of elements in a string.|`str.length`|
-|`str.count(substr)`|Count the number of occurences for one or multiple substrings in a larger string.|N/A|
+|`str.count(substr)`|Count the number of occurences for one or multiple substrings in a larger string.|N/A (Would need a counter and loop)|
 |`str.include? [substr]`|Check to see if a string includes a substring.|`str.includes(str)`|
 |`str.concat(diffstr)`|Combine multiple strings into one string.|`str.concat(str)`|
+|`int.fdiv(diffint)`|Divide two integers with a resulting decimal.|`int / diffint`|
+|`int.even?`|Results in a boolean stating whether an integer is even.|N/A (Would need to use a modulus and conditional logic)|
+|`int.round()`|Rounds to the nearest whole number. You can add a number inside the parens to indicate the place value you want to round to.|`Math.round(int)`|
+||||
+||||
   
 ## Sources
   * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
