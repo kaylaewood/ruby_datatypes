@@ -9,19 +9,17 @@ This is a collection of exercises created by Turing School of Software & Design 
 4. To run tests, `cd` into the appropriate directory (i.e. `strings`) and run `ruby [file name]` (i.e. `strings.rb`).
   
 ## Methods I Learned/Used:
-|method|explanation|JS Equivalent|
+|Method|Explanation|JS Equivalent|
 |---|---|---|
 |`str.capitalize`|Capitalizes the first letter of a string.|`str.replace(/^\w/, char => char.toUpperCase())`|
 |`str.upcase`|Capitalizes all letters in a string.|`str.toUpperCase()`|
 |`str.downcase`|Makes all letters in a string lowercase.|`str.toLowerCase()`|
 |`str.reverse`|Reverses the order of all elements in a string.|`str.split('').reverse().join('')`|
 |`str.gsub(old, new)`|Replace part of a string with something new.|`str.replace(old, new)`|
-||||
-||||
-||||
-||||
-||||
-||||
+|`str.length`|Count the number of elements in a string.|`str.length`|
+|`str.count(substr)`|Count the number of occurences for one or multiple substrings in a larger string.|N/A|
+|`str.include? [substr]`|Check to see if a string includes a substring.|`str.includes(str)`|
+|`str.concat(diffstr)`|Combine multiple strings into one string.|`str.concat(str)`|
   
 ## Sources
   * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
