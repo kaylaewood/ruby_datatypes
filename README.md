@@ -22,8 +22,8 @@ This is a collection of exercises created by Turing School of Software & Design 
 |`str.concat(diffstr)`|Combine multiple strings into one string.|`str.concat(str)`|
 |`int.fdiv(diffint)`|Divide two integers with a resulting decimal.|`int / diffint`|
 |`int.even?`|Results in a boolean stating whether an integer is even.|N/A (Would need to use a modulus and conditional logic)|
-|`int.round()`|Rounds to the nearest whole number. You can add a number inside the parens to indicate the place value you want to round to.|`Math.round(int)`|
-||||
+|`int.round()`|Round to the nearest whole number. You can add a number inside the parens to indicate the place value you want to round to.|`Math.round(int)`|
+|`int.ceil`|Round up to the next whole number.|N/A|
 ||||
   
 ## Sources
