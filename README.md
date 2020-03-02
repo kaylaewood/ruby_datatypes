@@ -10,7 +10,11 @@ This is a collection of exercises created by Turing School of Software & Design 
 
 ## Exercises
 data-types:
-  * strings [video walk-through](https://youtu.be/BKqo2w0W7S0)
+  * strings 
   * ints_and_floats
-  * collections/arrays [video walk-through](https://youtu.be/RUnd1Uu0AyE)
+  * collections/arrays 
+  
+## Sources
+  * [Strings Video Walk-Through by Turing](https://youtu.be/BKqo2w0W7S0)
+  * [Collections/Arrays Video Walk-Through by Turing](https://youtu.be/RUnd1Uu0AyE)
   
