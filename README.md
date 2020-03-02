@@ -23,4 +23,5 @@ This is a collection of exercises created by Turing School of Software & Design 
 ## Sources
   * [Strings Video Walk-Through](https://youtu.be/BKqo2w0W7S0) by Turing
   * [Collections/Arrays Video Walk-Through](https://youtu.be/RUnd1Uu0AyE) by Turing
+  * [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
   
