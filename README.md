@@ -6,7 +6,7 @@ This is a collection of exercises created by Turing School of Software & Design 
 1. `clone` this repo.
 2. `cd` into this directory.
 3. Run `bundle`.
-4. To run tests, `cd` into the `strings` directory and run `ruby strings.rb`.
+4. To run tests, `cd` into the appropriate directory (i.e. `strings`) and run `ruby [file name]` (i.e. `strings.rb`).
 
 ## Exercises
 data-types:
