@@ -14,7 +14,7 @@ This is a collection of exercises created by Turing School of Software & Design 
   * Collections & Arrays 
   
 ## Methods I Learned/Used:
-| method | data types | explanation | example |
+| method | data types | explanation | JS Equivalent? |
 |---|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
